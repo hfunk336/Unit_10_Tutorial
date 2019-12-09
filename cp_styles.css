@@ -246,6 +246,7 @@ body > section > aside > p {
    margin: 15px 0px 20px;
 }
 
+
 /* Footer Styles */
 
 footer {
@@ -289,10 +290,10 @@ footer span a:hover {
       -webkit-flex: 1 1 640px;
       flex: 1 1 640px;
       border-left: none;
-      -moz-column-width: 200px;
-      -webkit-column-width: 200px;
-      column-width: 200px; 
-      margin-bottom: 25px;     
+   -moz-column-width: 200px;
+   -webkit-column-width: 200px;
+    column-width: 200px; 
+    margin-bottom: 25px;     
    }
    
    body > nav > img {
